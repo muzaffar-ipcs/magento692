@@ -1,2 +1,5 @@
 /vendor/
 .idea
+var/cache/*
+var/session/*
+media/catalog/product/cache/*
